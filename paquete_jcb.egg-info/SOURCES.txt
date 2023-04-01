@@ -1,0 +1,10 @@
+setup.py
+paquete_entregable/__init__.py
+paquete_entregable/codigo_fuente_cliente.py
+paquete_entregable/paquete_pre_entrega_mejorado.py
+paquete_entregable/paquete_super_mejorado.py
+paquete_entregable/usopaquete_enetrgable.py
+paquete_jcb.egg-info/PKG-INFO
+paquete_jcb.egg-info/SOURCES.txt
+paquete_jcb.egg-info/dependency_links.txt
+paquete_jcb.egg-info/top_level.txt
